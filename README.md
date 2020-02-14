@@ -1,4 +1,5 @@
 # Speech_recognition
-## AIdea - Speech recognition
-
-
+* Project : AIdea - Speech recognition
+* Tools  
+  * speech_recognition
+  * Auto ML
